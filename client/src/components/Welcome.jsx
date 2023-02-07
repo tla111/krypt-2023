@@ -44,6 +44,11 @@ const Welcome = () => {
                         <div className={`rounded-br-2xl ${companyCommonStyles}`}>
                             Blockchain
                         </div>
+                    </div>
+
+                    <div className="flex flex-col flex-1 items-center justify-start w-full mf:mt-0 mt-10">
+                        <div className="p-3 flex justify-end items-start flex-col rounded-xl h-40 sm:w-72 w-full my-5 eth-card .white-glassmorphism ">
+                        </div>
 
                     </div>
 
